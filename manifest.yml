@@ -1,0 +1,5 @@
+---
+applications:
+ - name: MBMA Codes
+   random-route: true
+   memory: 256M

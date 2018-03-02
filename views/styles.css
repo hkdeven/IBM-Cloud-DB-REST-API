@@ -1,3 +1,20 @@
 .helloInput {
   width: 200px;
 }
+body {
+  background: #f5f5f559;
+  background-image: url(https://www.alliedbuildings.com/wp-content/uploads/2018/03/asb-logo-e1520008779249.png);
+}
+.table-info, .table-info>th, .table-info>td {
+    background-color: #2d3e4fb8;
+}
+.page-item.active .page-link {
+    background-color: #18BC9C;
+}
+.page-link {
+    background-color: #2d3e4f;
+}
+.pagination {
+    float: right;
+    margin-top: 50px;
+}
